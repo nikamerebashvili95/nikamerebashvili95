@@ -1,0 +1,24 @@
+# 👋 Hi, I'm Nika!
+
+I'm a junior frontend developer from Georgia, and I'm excited to create stunning and user-friendly web applications.
+
+## 💻 Tech Stack
+
+Here are some of the programming languages, frameworks, and technologies that I'm proficient in:
+
+-   🌐 HTML
+-   🎨 CSS
+-   🚀 JavaScript
+-   🎉 Bootstrap
+-   🐙 Git
+-   🎨 Figma
+
+## 🌱 Always Learning
+
+I'm passionate about learning and growing my skills, and I'm eager to try out new things. I'm open to suggestions and feedback, so feel free to reach out to me!
+
+## 📫 Get in Touch
+
+You can contact me at [nikamerebashvili95@gmail.com], or check out my portfolio at [your portfolio link here].
+
+Thanks for stopping by! 🤗
