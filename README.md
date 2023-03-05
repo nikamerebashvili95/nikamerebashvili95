@@ -19,6 +19,6 @@ I'm passionate about learning and growing my skills, and I'm eager to try out ne
 
 ## 📫 Get in Touch
 
-You can contact me at [nikamerebashvili95@gmail.com], or check out my portfolio at [your portfolio link here].
+You can contact me at [nikamerebashvili95@gmail.com], [https://www.linkedin.com/in/nikamerebashvili] and also you can see all my projects in my linkedin profile.
 
 Thanks for stopping by! 🤗
