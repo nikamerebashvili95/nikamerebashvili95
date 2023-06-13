@@ -9,6 +9,7 @@ Here are some of the programming languages, frameworks, and technologies that I'
 -   🌐 HTML
 -   🎨 CSS
 -   🚀 JavaScript
+-   ⚛️ React
 -   🎉 Bootstrap
 -   🐙 Git
 -   🎨 Figma
