@@ -10,7 +10,7 @@ Here are some of the programming languages, frameworks, and technologies that I'
 -   🎨 CSS
 -   🚀 JavaScript
 -   ⚛️ React
--   🎉 Bootstrap
+-   🎉 Tailwindcss
 -   🐙 Git
 -   🎨 Figma
 
@@ -20,6 +20,6 @@ I'm passionate about learning and growing my skills, and I'm eager to try out ne
 
 ## 📫 Get in Touch
 
-You can contact me at [nikamerebashvili95@gmail.com], [https://www.linkedin.com/in/nikamerebashvili] and also you can see all my projects in my linkedin profile.
+You can contact me at [nikamerebashvili95@gmail.com], [https://www.linkedin.com/in/nikamerebashvili] and also you can see all my projects in my portfolio website [https://nikamerebashvili95.github.io/portfolio-website/].
 
 Thanks for stopping by! 🤗
