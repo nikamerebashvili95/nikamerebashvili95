@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nika!
 
-I'm a junior frontend developer from Georgia, and I'm excited to create stunning and user-friendly web applications.
+I'm frontend React developer from Georgia, and I'm excited to create stunning and user-friendly web applications.
 
 ## 💻 Tech Stack
 
@@ -11,6 +11,7 @@ Here are some of the programming languages, frameworks, and technologies that I'
 -   🚀 JavaScript
 -   ⚛️ React
 -   🎉 Tailwindcss
+-   🚀Typescript
 -   🐙 Git
 -   🎨 Figma
 
