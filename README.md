@@ -11,7 +11,6 @@ Here are some of the programming languages, frameworks, and technologies that I'
 -   🚀 JavaScript
 -   ⚛️ React
 -   🎉 Tailwindcss
--   🚀Typescript
 -   🐙 Git
 -   🎨 Figma
 
